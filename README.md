@@ -1,1 +1,6 @@
 # DeFi-Kingdom
+I'm working on a project to create my own subnet and its associated token, deploying it on a local network. To achieve this, I utilized the Avalanche CLI to establish a subnet, which I then deployed locally. This setup allows us to have a dedicated network environment for our specific needs, providing a controlled space for testing and development.
+<br> <br>
+With the subnet successfully deployed, we can now use it for our transactions on Remix IDE. This integration ensures that all transactions within the subnet are executed smoothly, allowing us to test and validate our smart contracts in a realistic yet isolated environment. The seamless operation of transactions is crucial for verifying the functionality and security of the system before moving to a broader deployment.
+<br> <br>
+I've named the token **"MYSUBNET"** and the subnet itself **"mySubnet."** This naming convention helps in clearly identifying the assets and network we're working with. For those interested in running a similar project, you can follow the detailed instructions provided in the **<a href="https://docs.avax.network/tooling/avalanche-cli">Avalanche documentation<a/>**. These guides offer step-by-step procedures for creating and managing Avalanche subnets, making it easier for developers to replicate and build upon this setup.
